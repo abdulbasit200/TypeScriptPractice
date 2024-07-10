@@ -1,0 +1,31 @@
+What is TypeScript?
+	Prgramming language to address short comings of JavaScript.
+	Programing language build on top of JavaScript. JavaScript is subset of TypeScript.
+
+Benifits?
+	Static typing
+	Code completion
+	Refactoring
+	Shorthand Notaions
+
+Static type:
+	Data type difine on Compile time.
+	(C++, C#, Java)
+	int number = 10;	(Right)
+	number = "a";		(Wrong)
+Dynamic Type:
+	Data type difine on Run time.
+	(JavaScript, Python, Ruby)
+	let number = 10;	(Right)
+	number = "a";		(Right)
+
+Drawbacks?
+	Compilation
+	Discipline in coding.
+	
+Transpilation:
+	Processs of compiling TypeScript into JavaScript.
+	
+JavaScriptis best for simple projects. TypeScript is best for medium to large projects.
+
+tsc: typeScript compiler
