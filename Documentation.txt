@@ -29,3 +29,10 @@ Transpilation:
 JavaScriptis best for simple projects. TypeScript is best for medium to large projects.
 
 tsc: typeScript compiler
+
+TypeScript Data Types:
+	JavaScript Data Types: {number, string, boolean, null, undefined, object}, any, unknown, never, enum, tuple
+
+Tuple: fixed length array
+
+Enums: list of related constants
